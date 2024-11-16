@@ -5,3 +5,5 @@
 создаешь console проект
 
 в верхнем меню project -> build options -> linker settings -> add -> gdi32
+
+Вставляешь код в файл
